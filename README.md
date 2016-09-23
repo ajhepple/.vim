@@ -14,7 +14,7 @@ therefore the `~/.vimrc` file requires the entries
 See [Pathogen FAQs](https://github.com/tpope/vim-pathogen/blob/master/README.markdown#faq)
 for more details.
 
-A link that points `~/.vimrc` to the working copy of this repository.
+A link that points `~/.vim` to the working copy of this repository.
 
 ## To install further plugins
 
