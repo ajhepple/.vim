@@ -16,3 +16,6 @@
 [submodule "bundle/groovyindent"]
 	path = bundle/groovyindent
 	url = https://github.com/vim-scripts/groovyindent-unix.git
+[submodule "bundle/elm-vim"]
+	path = bundle/elm-vim
+	url = https://github.com/ElmCast/elm-vim.git

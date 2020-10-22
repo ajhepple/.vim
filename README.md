@@ -18,7 +18,7 @@ A link that points `~/.vim` to the working copy of this repository.
 
 ## To install further plugins
 
-    $ cd ~/workspace/.vim
+    $ cd ~/workspace/vim
     $ git submodule add https://github.com/user/plugin-name.git bundle/plugin-name
     $ git submodule init
 
